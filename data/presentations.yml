@@ -1,0 +1,98 @@
+enable : true
+title  : PRESENTATIONS
+image  : images/banners/aurora.jpg
+items  :
+
+  - title: Project Rajin and UXarray, community tools for the analysis of kilometer scale climate and weather model outputs
+    authors:
+      - Clyne, J.
+    conference: 20th ECMWF workshop on high performance computing in meteorology
+    year: 2023
+    extra: Balogna, Italy
+    url: https://docs.google.com/presentation/d/1QKySeckzeG9Q4SUe6-yXLRD23mC2-dulcxtXMknqPhA/edit?usp=sharing
+
+  - title: Update on Project Raijin -  Community geoscience analysis tools for unstructured grids
+    authors:
+      - Clyne, J.
+    conference: AGU 2022
+    year: 2022
+    extra: Chicago, IL
+    url: https://drive.google.com/file/d/1YshNBlvH0JOYqQHnljedcT-wmETopzhs/view?usp=share_link
+
+  - title: NCAR Pivot to Python
+    authors:
+      - Clyne, J.
+    conference: iCAS 2022
+    year: 2022
+    extra: Stresa, Italy
+    url: https://drive.google.com/file/d/1I1SPhU0Fp5wdyOd4_nwjbcEPTVioz6-a/view?usp=share_link
+
+  - title: Pivoting to Python - Lessons Learned in Recreating the NCAR Command Language in Python
+    authors:
+      - Sizemore, M.
+      - Eroglu, O.
+      - Zacharias, A.
+      - Kootz, A.
+    conference: AMS Annual Meeting 2022
+    year: 2022
+    url: https://ams.confex.com/ams/102ANNUAL/meetingapp.cgi/Paper/392637
+
+  - title: NCAR's GeoCAT Announcement of Computational Tools
+    authors:
+      - Craker, H.
+      - Kootz, A.
+      - Zacharias, A.
+      - Sizemore, M.
+      - Eroglu, O.
+    conference: AMS Annual Meeting 2022
+    year: 2022
+    url: https://ams.confex.com/ams/102ANNUAL/meetingapp.cgi/Paper/395377
+  
+  - title: Project Raijin - Community Geoscience Analysis Tools for Unstructured Grids
+    authors:
+      - Clyne, J.
+      - Eroglu, O.
+      - Medeiros, B.
+      - Zarzycki, C. M.
+    conference: AGU Fall Meeting 2021
+    year: 2021
+    url: https://agu.confex.com/agu/fm21/meetingapp.cgi/Paper/901711
+
+  - title: Expanding and Strengthening the Transition from NCL to Python Visualizations
+    authors:
+      - Lincoln, E.
+      - Li, J.
+      - Zacharias, A.
+      - Sizemore, M.
+      - Eroglu, O.
+      - Kent, J.
+    conference: AGU Fall Meeting 2021
+    year: 2021
+    url: https://agu.confex.com/agu/fm21/meetingapp.cgi/Paper/973469
+
+  - title: Geoscience Community Analysis Toolkit (GeoCAT)
+    authors:
+      - Eroglu, O.
+      - Clyne, J.
+      - Kootz, A.
+      - Sizemore, M.
+      - Zacharias, A.
+    conference: AMS Annual Meeting 2021
+    year: 2021
+    url: https://ams.confex.com/ams/101ANNUAL/meetingapp.cgi/Paper/379186
+
+  - title: Rebuilding the NCL Visualization Gallery in Python
+    authors:
+      - Craker, H. R.
+      - Fiorino, C. A.
+      - Sizemore, M. V.
+    conference: AMS Annual Meeting 2021
+    year: 2021
+    url: https://ams.confex.com/ams/101ANNUAL/meetingapp.cgi/Paper/378236
+
+  - title: GeoCAT - The NCL Pivot to Python
+    authors:
+      - Clyne, J.
+    conference: AMS Annual Meeting 2020
+    year: 2020
+    url: https://ams.confex.com/ams/2020Annual/meetingapp.cgi/Paper/365970

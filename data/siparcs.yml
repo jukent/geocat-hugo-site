@@ -1,0 +1,93 @@
+enable : true
+title  : SIParCS PROJECTS
+image  : images/banners/aurora.jpg
+items  :
+       
+
+  - title: "Expanding GeoCAT's Visualization Capabilities"
+    student: Daphne Quint
+    university: University of Colorado, Boulder
+    url: "https://www2.cisl.ucar.edu/siparcs-2022-daphne-quint"
+    github: "@doqhne"
+    mentors:
+     - Anissa Zacharias
+     - Michaela Sizemore
+    year: 2022  
+
+  - title: "Exploring Performance of GeoCAT Data Analysis Routines on GPUs"
+    student: Haniye Kashgarani
+    university: University of Wyoming
+    url: "https://www2.cisl.ucar.edu/siparcs-2022-haniye-kashgarani"
+    github: "@haniyeka"
+    mentors:
+     - Cena Miller
+     - Supreeth Suresh
+     - Anissa Zacharias
+    year: 2022  
+
+  - title: "Python Visualization, Analysis, & Jupyter Notebook Development for Unstructured Grids"
+    student: Philip Chmielowiec
+    university: University of Illinois at Urbana-Champaign
+    url: "https://www2.cisl.ucar.edu/siparcs-2022-philip-chmielowiec"
+    github: "@philipc2"
+    mentors:
+     - Orhan Eroglu
+     - Alea Kootz
+     - Anissa Zacharias
+     - Michaela Sizemore
+    year: 2022
+
+  - title: "Expanding and strengthening the transition from NCL to Python visualizations"
+    student: Erin Lincoln
+    university: Brown University
+    url: "https://www2.cisl.ucar.edu/siparcs-2021-lincoln"
+    github: "@erinlincoln"
+    mentors:
+     - Julia Kent
+     - Orhan Eroglu
+     - Anissa Zacharias
+     - Michaela Sizemore
+    year: 2021
+    
+  - title: "Building the Python Equivalent of the NCL Visualization Gallery"
+    student: Heather Craker
+    university: Purdue University
+    url: "https://www2.cisl.ucar.edu/siparcs-2020-craker"
+    github: "@hcraker"
+    mentors:
+     - Julia Kent
+     - Kevin Paul
+     - John Clyne
+    year: 2020
+
+  - title: "Climatology Calculation Support in the GeoCAT Ecosystem"
+    student: Heather Craker
+    university: Purdue University
+    url: "https://www2.cisl.ucar.edu/siparcs-2021-craker"
+    github: "@hcraker"
+    mentors:
+     - Alea Kootz
+     - Orhan Eroglu
+    year: 2021
+
+  - title: "Expanding and Strengthening the Transition from NCL to Python Visualizations"
+    student: Jiaqi Li
+    university: Middlebury College
+    url: "https://www2.cisl.ucar.edu/siparcs-2021-li"
+    github: "@jiaqi-beep"
+    mentors:
+     - Julia Kent
+     - Orhan Eroglu
+     - Michaela Sizemore
+     - Anissa Zacharias
+    year: 2021
+
+  - title: "Building the Python Equivalent of the NCL Visualization Gallery"
+    student: Claire Fiorino
+    university: San Diego State University
+    url: "https://www2.cisl.ucar.edu/siparcs-2020-fiorino"
+    github: "@clairefio"
+    mentors:
+     - John Clyne
+     - Kevin Paul
+    year:  2020

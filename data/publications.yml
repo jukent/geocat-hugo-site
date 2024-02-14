@@ -1,0 +1,18 @@
+enable : true
+title  : PUBLICATIONS
+image  : images/banners/aurora.jpg
+items  :
+
+  - title: The Geoscience Community Analysis Toolkit - An Open Development, Community Driven
+           Toolkit in the Scientific Python Ecosystem
+    authors:
+      - Eroglu, O.
+      - Zacharias, A.
+      - Sizemore, M.
+      - Kootz, A.
+      - Craker, H.
+      - Clyne, J.
+    journal: Proceedings of the 21st Python in Science Conference
+    year: 2022
+    extra: pp. 154 - 160
+    url: https://conference.scipy.org/proceedings/scipy2022/orhan_eroglu.html

@@ -1,0 +1,34 @@
+enable  : true
+title   : GeoCAT Staff
+members  :
+
+
+  - name        : PHILIP CHMIELOWIEC
+    designation : Software Engineer
+    ncaruname   : philipc
+    githubuname : philipc2
+
+  - name        : ORHAN EROGLU
+    designation : Software Engineer
+    ncaruname   : oero
+    githubuname : erogluorhan
+
+  - name        : KATELYN FITZGERALD
+    designation : Software Engineer
+    ncaruname   : katelynw
+    githubuname : kafitzgerald
+
+  - name        : JULIA KENT
+    designation : Software Engineer
+    ncaruname   : jkent
+    githubuname : jukent
+
+  - name        : CORA Y. SCHNECK
+    designation : Software Engineer
+    ncaruname   : cschneck
+    githubuname : cyschneck
+
+  - name        : ANISSA ZACHARIAS
+    designation : Software Engineer
+    ncaruname   : anissaz
+    githubuname : anissa111
